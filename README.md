@@ -35,10 +35,10 @@
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/trash.jpeg)
+![trash](assets/img/gat 이미지.png)
 
-[딥러닝: 쓰레기 분류 모델 만들기](https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb)
-- CNN 모델을 사용하여 재활용 쓰레기 이미지로 종류를 분류하는 예측 모델을 만들었습니다.
+[딥러닝: 사기 탐지]([https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb](https://github.com/seogideogi/4mula))
+- gat 모델을 사용하여 사기 탐지 프로 젝트를 진행했습니다.
 
 ![newyork](assets/img/newyork.jpeg)
 
