@@ -40,7 +40,7 @@
 [딥러닝: 사기 탐지]([https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb](https://github.com/seogideogi/4mula))
 - gat 모델을 사용하여 사기 탐지 프로 젝트를 진행했습니다.
 
-![newyork](assets/img/newyork.jpeg)
+![fraud](assets/img/gat 이미지.png)
 
 [뉴욕시 에어비엔비 태블로 분석](https://public.tableau.com/app/profile/dongchan.lim/viz/AirbnbPractice_15699654202660/Story1)
 - 뉴욕시에 있는 에어비엔비의 데이터를 시각화하여 고객들이 숙소 가격 과 평점을 한눈에 보고 비교할 수 있어요!
