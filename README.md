@@ -35,7 +35,7 @@
 
 ## 📊 프로젝트 (Project)
 ------
-![trash](assets/img/gat 이미지.png)
+![fraud](assets/img/gat 이미지.png)
 
 [딥러닝: 사기 탐지]([https://github.com/dongchanlim/Python-Machine-Learning/blob/main/Semester_Project.ipynb](https://github.com/seogideogi/4mula))
 - gat 모델을 사용하여 사기 탐지 프로 젝트를 진행했습니다.
